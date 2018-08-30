@@ -1,0 +1,12 @@
+proximaNova_typekit_script:
+  version: 1.x
+  header: true
+  js:
+    js/script.js: {}
+
+# If you need to add a link to a script, here is how
+# proximaNova_typekit_url:
+#   version: 1.x
+#   header: true
+#   js:
+#     https://use.typekit.net/did8kgb.js: { external: true, attributes: { defer: true, async: true} }

@@ -1,0 +1,10 @@
+<?php
+/**
+ * Implements hook_page_attachments().
+ * @param array $attachments
+ */
+function load_webfonts_page_attachments(array &$attachments) {
+    // add here any conditions if you need to limit the pages
+    // ProximaNova web fonts is used as an example only
+    $attachments['#attached']['library'][] = 'load_webfonts/proximaNova_typekit_script';
+}

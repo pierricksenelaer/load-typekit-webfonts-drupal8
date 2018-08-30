@@ -1,0 +1,6 @@
+name: Load Typekit Webfonts Drupal 8
+description: A module to load webfonts from a TypeKit package.
+package: custom
+type: module
+version: 1.0
+core: 8.x
