@@ -4,7 +4,7 @@ Drupal 8 module to load the web fonts kit generated with Typekit
 
 # USAGE
 
-If you use Typekit (https://typekit.com/) to serve web fonts on your Drupal 8, then you may find this module useful
+If you use Typekit (https://typekit.com/) to serve web fonts on your Drupal 8 site, then you may find this module useful
 
 __`git clone`__ this repo and look for the __`<kitId>`__ placeholder which should be replaced with whatever ID, your kit you generated from Typekit has.
 
